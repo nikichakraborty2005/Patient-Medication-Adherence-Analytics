@@ -1,5 +1,3 @@
-# Patient-Medication-Adherence-Analytics
-End-to-End Healthcare Analytics &amp; Machine Learning Project using SQL, Python, Random Forest, and Power BI.
 #  Patient Medication Adherence Analytics
 
 ### End-to-End Healthcare Analytics & Machine Learning Project
@@ -8,12 +6,11 @@ End-to-End Healthcare Analytics &amp; Machine Learning Project using SQL, Python
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Medication non-adherence is one of the leading causes of poor treatment outcomes and increased healthcare costs. This project analyzes patient medication adherence patterns using SQL and Power BI while leveraging a Random Forest Machine Learning model to predict patients who are at risk of discontinuing their medication.
 
-The project demonstrates an end-to-end analytics workflow, starting from database design and SQL analysis to predictive modeling in Python and interactive dashboard development in Power BI.
-
+The project follows a complete analytics lifecycle, including SQL-based data extraction, Python data preprocessing, Random Forest machine learning, and interactive Power BI dashboards to support healthcare decision-making.
 ---
 
 #  Business Objectives
